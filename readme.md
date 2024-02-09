@@ -11,9 +11,9 @@ This add-on creates input box to select date or date and time.
 
 ## Requirements
 
-- **[PHP](https://php.net)** 8.0 or later
+- **[PHP](https://php.net)** 8.1 or later
 - **[Nette Dependency Injection Container](https://github.com/nette/di)** 3.1 or later
-- **[Nette Forms](https://github.com/nette/forms)** 3.1 or later
+- **[Nette Forms](https://github.com/nette/forms)** 3.2 or later
 - **[Nette Utilities](https://github.com/nette/utils)** 3.2.1 or later or 4.0 or later
 
 ## GNU Lesser General Public License

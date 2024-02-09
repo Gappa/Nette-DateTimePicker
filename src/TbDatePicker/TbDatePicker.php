@@ -26,7 +26,7 @@ class TbDatePicker extends AbstractDateTimePicker
   protected $format = 'd.m.Y';
 
   /** @return mixed */
-  public function getValue()
+  public function getValue(): mixed
   {
     if (strlen($this->value) > 0)
     {
